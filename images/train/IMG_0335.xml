@@ -1,0 +1,26 @@
+<annotation>
+	<folder>transform</folder>
+	<filename>IMG_0335.png</filename>
+	<path>C:\Users\nubze\Documents\Sri Lankan Weevil Images\images - Copy\transform\IMG_0335.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>302</width>
+		<height>403</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>weevil</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>88</xmin>
+			<ymin>163</ymin>
+			<xmax>112</xmax>
+			<ymax>193</ymax>
+		</bndbox>
+	</object>
+</annotation>
